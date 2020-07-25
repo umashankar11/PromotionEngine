@@ -1,0 +1,8 @@
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\bin\Debug\netstandard2.0\PromotionEngineBusiness.deps.json
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\bin\Debug\netstandard2.0\PromotionEngineBusiness.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\bin\Debug\netstandard2.0\PromotionEngineBusiness.pdb
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\obj\Debug\netstandard2.0\PromotionEngineBusiness.csprojAssemblyReference.cache
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\obj\Debug\netstandard2.0\PromotionEngineBusiness.AssemblyInfoInputs.cache
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\obj\Debug\netstandard2.0\PromotionEngineBusiness.AssemblyInfo.cs
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\obj\Debug\netstandard2.0\PromotionEngineBusiness.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineBusiness\obj\Debug\netstandard2.0\PromotionEngineBusiness.pdb

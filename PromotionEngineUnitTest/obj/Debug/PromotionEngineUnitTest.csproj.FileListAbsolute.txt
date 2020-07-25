@@ -1,0 +1,15 @@
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\PromotionEngineUnitTest.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\PromotionEngineUnitTest.pdb
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\PromotionEngineBusiness.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\PromotionEngineBusiness.pdb
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\obj\Debug\PromotionEngineUnitTest.csprojAssemblyReference.cache
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\obj\Debug\PromotionEngineUnitTest.csproj.CopyComplete
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\obj\Debug\PromotionEngineUnitTest.dll
+C:\Users\612937503\source\repos\PromotionEngine\PromotionEngineUnitTest\obj\Debug\PromotionEngineUnitTest.pdb

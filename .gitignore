@@ -2,4 +2,29 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/PromotionEngine/v16/Server/sqlite3
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+PublishProfiles/
+local-nuget-repo/
+.config/
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+PublishProfiles/
+.config/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
